@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1363" dy="3251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="3011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-14" value="Sessions&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="-2290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-16" value="Choose a time between offered times" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-2175" width="90" height="50" as="geometry" />
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-16" value="Select a time from the available session times" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-2175" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-18" value="See session list" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-18" value="View list of sessions" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="-2050" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-19" value="Play music during the session" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -40,19 +40,16 @@
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-22" value="Chat / Send messages" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="-2130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-24" value="Add private / public notes with client" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-24" value="Share private / public notes with client" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="-2150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-25" value="See client&#39;s weekly report" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-1990" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-26" value="Check session payment" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-1910" width="100" height="60" as="geometry" />
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-25" value="View client&#39;s weekly report" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-2018" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-27" value="Create a therapy plan" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-1830" width="100" height="60" as="geometry" />
+          <mxGeometry x="490" y="-1943" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-28" value="Offer session times" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-28" value="Provide Session Times" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="-2220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3qdfxk0Ov2vLYJv6HYns-16">
@@ -97,13 +94,7 @@
             <mxPoint x="710" y="-2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-40" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qdfxk0Ov2vLYJv6HYns-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="-1950" as="sourcePoint" />
-            <mxPoint x="710" y="-2070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qdfxk0Ov2vLYJv6HYns-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="-1800" as="sourcePoint" />
             <mxPoint x="710" y="-2070" as="targetPoint" />
@@ -151,7 +142,7 @@
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-57" value="Add / modify psychological history" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-2120" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-59" value="See all&lt;div&gt;&amp;nbsp;psychologists&#39; list&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-59" value="View all&lt;div&gt;&amp;nbsp;psychologists&#39; list&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-2048" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-60" value="Read other&#39;s comments for psycholigists" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -169,7 +160,7 @@
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-63" value="Add personal information&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-2168" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3qdfxk0Ov2vLYJv6HYns-64" value="See own patients lists" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-64" value="View own Patients" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-2088" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-65" value="get payment notify" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -309,7 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-106" value="&lt;div&gt;chat with AI agent&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-1750" width="120" height="70" as="geometry" />
+          <mxGeometry x="1160" y="-1738" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3qdfxk0Ov2vLYJv6HYns-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3qdfxk0Ov2vLYJv6HYns-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -321,6 +312,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="-1795" as="sourcePoint" />
             <mxPoint x="1470" y="-2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-112" value="&lt;div&gt;Join session&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-1938" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-113" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qdfxk0Ov2vLYJv6HYns-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="-1870" as="sourcePoint" />
+            <mxPoint x="1470" y="-2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qdfxk0Ov2vLYJv6HYns-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3qdfxk0Ov2vLYJv6HYns-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="-2060" as="sourcePoint" />
+            <mxPoint x="1180" y="-1918" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
